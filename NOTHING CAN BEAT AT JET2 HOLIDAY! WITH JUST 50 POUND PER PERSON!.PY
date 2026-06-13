@@ -2,7 +2,7 @@ class Student:
     name="Long"
     scores={
         "Math":80,
-        "English":80,
+        "English":80, 
         "Science":85,
         "HistoryandGeography":100,
         "CitizenTeaching": 95,
